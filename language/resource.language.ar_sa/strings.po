@@ -436,6 +436,11 @@ msgid "Translations"
 msgstr "الترجمات"
 
 #: /1080i/Includes_Labels.xml
+msgctxt "#31099"
+msgid "Last aired"
+msgstr "آخر بث"
+
+#: /1080i/Includes_Labels.xml
 msgctxt "#31102"
 msgid "Prebuilt Configuration"
 msgstr "إعداد مسبق"
